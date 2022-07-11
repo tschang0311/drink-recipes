@@ -1,0 +1,42 @@
+.button {
+    height: 50px;
+    text-align: center;
+    width: 200px;
+    border: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.button.refreshing-summer-drink {
+    background-color: salmon;
+}
+.button.refreshing-summer-drink:hover {
+    background-color: goldenrod;
+}
+
+.button.hearty-hot-chocolate {
+    background-color: #602A0D90;
+}
+.button.hearty-hot-chocolate:hover {
+    background-color: goldenrod;
+}
+
+.button.wonderful-water {
+    background-color: lightskyblue;
+}
+.button.button.wonderful-water:hover {
+    background-color: goldenrod;
+}
+
+.ul {
+    list-style: none;
+}
+/* gets rid of bullet point */
+
+.body {
+    font-family: Arial, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.body .h1 {
+    color: goldenrod;
+}

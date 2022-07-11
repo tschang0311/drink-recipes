@@ -1,0 +1,22 @@
+.img {
+    height: 300px;
+    width: auto;
+    border-radius: 20%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.h1 {
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.h2,
+.h3 {
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif, Helvetica, sans-serif;
+}
+
+.p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
