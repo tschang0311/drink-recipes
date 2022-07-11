@@ -20,3 +20,17 @@
 .p {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
+
+.button.home {
+    background-color: palegoldenrod;
+}
+.button.home:hover {
+    background-color: goldenrod;
+}
+.button {
+    height: 50px;
+    text-align: center;
+    width: 200px;
+    border: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

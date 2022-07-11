@@ -24,7 +24,14 @@
 .button.wonderful-water {
     background-color: lightskyblue;
 }
-.button.button.wonderful-water:hover {
+.button.wonderful-water:hover {
+    background-color: goldenrod;
+}
+
+.button.home {
+    background-color: palegoldenrod;
+}
+.button.home:hover {
     background-color: goldenrod;
 }
 
@@ -34,9 +41,10 @@
 /* gets rid of bullet point */
 
 .body {
-    font-family: Arial, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .body .h1 {
     color: goldenrod;
 }
+/* if adding a home button to the home page... */
